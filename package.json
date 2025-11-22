@@ -29,6 +29,7 @@
     "@types/turndown": "^5.0.5",
     "axios": "^1.11.0",
     "cheerio": "^1.1.2",
+    "https-proxy-agent": "^7.0.6",
     "turndown": "^7.2.0",
     "zod": "^3.25.67"
   },
